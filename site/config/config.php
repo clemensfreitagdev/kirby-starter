@@ -10,6 +10,7 @@
 return [
     'debug' => true,
     'url' => [
+        'https://kirby-starter-production.up.railway.app/', 
         'https://laughing-engine-695qxr77gr6qf6v7-80.app.github.dev/'
     ],
 
